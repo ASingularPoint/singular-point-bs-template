@@ -1,5 +1,7 @@
 # singular-point-bs
 
+## 这是一个vue3+typescript+element plus项目模板
+
 ## Project setup
 ```
 npm install
@@ -19,6 +21,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
